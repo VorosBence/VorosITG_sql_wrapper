@@ -10,6 +10,7 @@ setup(
     description="A simple SQLite database wrapper",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
+    url="https://github.com/VorosBence/VorosITG_sql_wrapper",
     license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
